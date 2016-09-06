@@ -1,0 +1,26 @@
+{
+  "name": "x-is-ducktype-array",
+  "version": "1.0.0",
+  "description": "x is an array that contains only elements of given ducktype",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/x-is-ducktype-array.git"
+  },
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/x-is-ducktype-array/issues"
+  },
+  "homepage": "https://github.com/serapath/x-is-ducktype-array#readme",
+  "devDependencies": {
+    "tape": "^4.6.0",
+    "x-is-string": "^0.1.0"
+  },
+  "dependencies": {
+    "x-is-array": "^0.1.0"
+  }
+}
