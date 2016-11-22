@@ -1,6 +1,6 @@
 {
   "name": "x-is-ducktype-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "x is an array that contains only elements of given ducktype",
   "main": "index.js",
   "scripts": {
